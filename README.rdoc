@@ -4,7 +4,7 @@ Catching people at Dev Bootcamp doing what they do best: sleep
 
 Using Twitters API, we display all pictures tagged with #DBCSleeps. Users can then select individual pictures and make comments on them.
 
-Check it out live: [http://sleepoverflow.herokuapp.com/](http://sleepoverflow.herokuapp.com/)
+Check it out live: http://sleepoverflow.herokuapp.com/
 
 Sleep well DBC!
 
